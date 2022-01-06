@@ -1,4 +1,4 @@
-### Oii, sou o Leonardo Lemos. 👋
+## Oii, sou o Leonardo Lemos. 👋
 
 Um pouco sobre mim:
 
@@ -6,4 +6,28 @@ Um pouco sobre mim:
 - 📚 Estudando Front-end (HTML, CSS e JS)
 - 🧑‍💻 Desenvolvendo sites para comercios locais nas horas vagas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+~~~
+<html>
+    <head>
+        <title>Bem-vindo(a) ao meu gitHub</title>
+    </head>
+    <body>
+        <p>Tenho 21 anos e estou dando meus primeiros passos na programação.</p>
+    </body>
+</html>
+~~~
+
+##
+<div align="center">
+    <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
+    <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
+    <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg">
+    <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg">
+    <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+    <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+    <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+</div>
+
+
+
