@@ -12,7 +12,7 @@ Um pouco sobre mim:
         <title>Bem-vindo(a) ao meu gitHub</title>
     </head>
     <body>
-        <p>Tenho 21 anos e estou dando meus primeiros passos na programação.</p>
+        <p>Tenho 24 anos e estou dando meus primeiros passos na programação.</p>
     </body>
 </html>
 ~~~
